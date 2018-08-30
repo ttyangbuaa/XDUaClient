@@ -1,0 +1,1130 @@
+08/14/2018 14:23:52.383  INFO  [main] com.xderi.client.XDUaClient                         - [com.xderi.client.XDUaClient.<init>(XDUaClient.java:184)] new  XDUaClient! 
+ 08/14/2018 14:23:52.757  INFO  [main] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.C(?:?)] Using an alternate endpoint URL 'opc.tcp://YTINGTING-PC.xderi.com:48010/OPCUA/XD_ScadaServer' instead of the requested 'opc.tcp://localhost:48010/OPCUA/XD_ScadaServer'
+ 08/14/2018 14:23:53.101  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:147)] New AlarmEventDBThread
+ 08/14/2018 14:23:53.101  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:151)] AlarmEventDBThread is start
+ 08/14/2018 14:23:53.159  INFO  [main] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onAfterCreate(XDSubscriptionAliveListener.java:21)] SubscriptionAliveListener-onAfterCreate : Subscription created. ID = 7
+ 08/14/2018 14:34:54.925  INFO  [main] com.xderi.client.XDUaClient                         - [com.xderi.client.XDUaClient.<init>(XDUaClient.java:184)] new  XDUaClient! 
+ 08/14/2018 14:34:55.225  INFO  [main] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.C(?:?)] Using an alternate endpoint URL 'opc.tcp://YTINGTING-PC.xderi.com:48010/OPCUA/XD_ScadaServer' instead of the requested 'opc.tcp://localhost:48010/OPCUA/XD_ScadaServer'
+ 08/14/2018 14:34:55.454  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:147)] New AlarmEventDBThread
+ 08/14/2018 14:34:55.455  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:151)] AlarmEventDBThread is start
+ 08/14/2018 14:34:55.471  INFO  [main] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onAfterCreate(XDSubscriptionAliveListener.java:21)] SubscriptionAliveListener-onAfterCreate : Subscription created. ID = 8
+ 08/14/2018 14:35:55.404  INFO  [main] com.xderi.client.XDUaClient                         - [com.xderi.client.XDUaClient.<init>(XDUaClient.java:184)] new  XDUaClient! 
+ 08/14/2018 14:35:55.673  INFO  [main] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.C(?:?)] Using an alternate endpoint URL 'opc.tcp://YTINGTING-PC.xderi.com:48010/OPCUA/XD_ScadaServer' instead of the requested 'opc.tcp://localhost:48010/OPCUA/XD_ScadaServer'
+ 08/14/2018 14:35:55.927  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:147)] New AlarmEventDBThread
+ 08/14/2018 14:35:55.927  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:151)] AlarmEventDBThread is start
+ 08/14/2018 14:35:55.946  INFO  [main] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onAfterCreate(XDSubscriptionAliveListener.java:21)] SubscriptionAliveListener-onAfterCreate : Subscription created. ID = 9
+ 08/14/2018 14:47:22.129  WARN  [PublishTask-com.xderi.client.XDUaClient@475e586c] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onTimeout(XDSubscriptionAliveListener.java:32)] SubscriptionAliveListener-onTimeout : Subscription timeout. ID = 9
+ 08/16/2018 11:11:18.461  INFO  [main] com.xderi.client.XDUaClient                         - [com.xderi.client.XDUaClient.<init>(XDUaClient.java:184)] new  XDUaClient! 
+ 08/16/2018 11:11:18.755  INFO  [main] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.C(?:?)] Using an alternate endpoint URL 'opc.tcp://YTINGTING-PC.xderi.com:48010/OPCUA/XD_ScadaServer' instead of the requested 'opc.tcp://localhost:48010/OPCUA/XD_ScadaServer'
+ 08/16/2018 11:11:19.086  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:147)] New AlarmEventDBThread
+ 08/16/2018 11:11:19.086  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:151)] AlarmEventDBThread is start
+ 08/16/2018 11:11:19.205  INFO  [main] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onAfterCreate(XDSubscriptionAliveListener.java:21)] SubscriptionAliveListener-onAfterCreate : Subscription created. ID = 7
+ 08/16/2018 11:12:41.488  INFO  [main] com.xderi.client.XDUaClient                         - [com.xderi.client.XDUaClient.<init>(XDUaClient.java:184)] new  XDUaClient! 
+ 08/16/2018 11:12:41.774  INFO  [main] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.C(?:?)] Using an alternate endpoint URL 'opc.tcp://YTINGTING-PC.xderi.com:48010/OPCUA/XD_ScadaServer' instead of the requested 'opc.tcp://localhost:48010/OPCUA/XD_ScadaServer'
+ 08/16/2018 11:12:42.000  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:147)] New AlarmEventDBThread
+ 08/16/2018 11:12:42.000  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:151)] AlarmEventDBThread is start
+ 08/16/2018 11:12:42.014  INFO  [main] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onAfterCreate(XDSubscriptionAliveListener.java:21)] SubscriptionAliveListener-onAfterCreate : Subscription created. ID = 8
+ 08/16/2018 11:40:31.883  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:40:32.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:40:33.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:42:12.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:42:13.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:42:14.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:43:53.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:43:54.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:43:55.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:45:34.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:45:35.884  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:45:36.885  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:47:15.885  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:47:16.885  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:47:17.885  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:48:56.886  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:48:57.886  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:48:58.886  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:50:37.923  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:50:38.923  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:50:39.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:52:18.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:52:19.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:52:20.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:53:59.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:54:00.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:54:01.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:55:40.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:55:41.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:55:42.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:57:21.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:57:22.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:57:23.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:59:02.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:59:03.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 11:59:04.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:00:43.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:00:44.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:00:45.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:02:24.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:02:25.924  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:02:26.925  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:04:05.925  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:04:06.925  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:04:07.925  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:05:46.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:05:47.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:05:48.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:07:27.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:07:28.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:07:29.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:09:08.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:09:09.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:09:10.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:10:49.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:10:50.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:10:51.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:12:30.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:12:31.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:12:32.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:14:11.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:14:12.930  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 12:14:13.931  ERROR [Thread-2] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:127)] java.net.SocketException: Connection reset by peer: socket write error
+ redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset by peer: socket write error
+	at redis.clients.jedis.Connection.flush(Connection.java:334)
+	at redis.clients.jedis.Connection.getAll(Connection.java:307)
+	at redis.clients.jedis.Connection.getAll(Connection.java:302)
+	at redis.clients.jedis.Pipeline.sync(Pipeline.java:99)
+	at com.xderi.client.alarm.dataprocessing.JedisPoolUtil.jedisPipelineOperate(JedisPoolUtil.java:114)
+	at com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler$AlarmEventDBThread.run(AlarmEventCacheHandler.java:117)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at redis.clients.util.RedisOutputStream.flushBuffer(RedisOutputStream.java:52)
+	at redis.clients.util.RedisOutputStream.flush(RedisOutputStream.java:216)
+	at redis.clients.jedis.Connection.flush(Connection.java:331)
+	... 6 more
+08/16/2018 16:05:14.527  WARN  [PublishTask-com.xderi.client.XDUaClient@475e586c] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onTimeout(XDSubscriptionAliveListener.java:32)] SubscriptionAliveListener-onTimeout : Subscription timeout. ID = 8
+ 08/16/2018 16:05:14.562  ERROR [Blocking-Work-Executor-17] org.opcfoundation.ua.transport.tcp.io.SecureChannelTcp     - [org.opcfoundation.ua.transport.tcp.io.SecureChannelTcp$8.run(?:?)] 14 Failed to renew security token. 
+ org.opcfoundation.ua.common.ServiceResultException: Bad_CommunicationError (code=0x80050000, description="All security tokens have expired")
+	at org.opcfoundation.ua.transport.tcp.io.TcpConnection.getSecurityTokenToUse(Unknown Source)
+	at org.opcfoundation.ua.transport.tcp.io.TcpConnection.sendRequest(Unknown Source)
+	at org.opcfoundation.ua.transport.tcp.io.SecureChannelTcp.createSecureChannel(Unknown Source)
+	at org.opcfoundation.ua.transport.tcp.io.SecureChannelTcp.access$500(Unknown Source)
+	at org.opcfoundation.ua.transport.tcp.io.SecureChannelTcp$8.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+08/16/2018 16:05:15.091  WARN  [Blocking-Work-Executor-21] com.prosysopc.ua.client.UaClient$a                  - [com.prosysopc.ua.client.UaClient$a.a(?:?)] onError: 
+ org.opcfoundation.ua.common.ServiceResultException: Bad_UnexpectedError (code=0x80010000, description="Unexpected securityTokenId = 2")
+	at org.opcfoundation.ua.transport.tcp.io.TcpConnection$ReadThread.run(Unknown Source)
+08/16/2018 16:05:15.091  WARN  [Blocking-Work-Executor-20] com.prosysopc.ua.client.UaClient$a                  - [com.prosysopc.ua.client.UaClient$a.a(?:?)] onError: 
+ org.opcfoundation.ua.common.ServiceResultException: Bad_UnexpectedError (code=0x80010000, description="Unexpected securityTokenId = 2")
+	at org.opcfoundation.ua.transport.tcp.io.TcpConnection$ReadThread.run(Unknown Source)
+08/16/2018 16:05:19.220  INFO  [PublishTask-com.xderi.client.XDUaClient@475e586c] com.prosysopc.ua.client.Subscription                - [com.prosysopc.ua.client.Subscription.a(?:?)] Requesting missing NotificationMessage (SequenceNumber=113) from the server using Republish: Target SequenceNumber=113
+ 08/16/2018 16:05:19.224  INFO  [PublishTask-com.xderi.client.XDUaClient@475e586c] com.prosysopc.ua.client.Subscription                - [com.prosysopc.ua.client.Subscription.a(?:?)] Failed to get a response to Republish (SequenceNumber=113): Error=Bad_SubscriptionIdInvalid (0x80280000) "The subscription id is not valid."
+ 08/16/2018 16:05:19.224  INFO  [PublishTask-com.xderi.client.XDUaClient@475e586c] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.H(?:?)] Subscription ID=8 no longer valid (), recreating
+ 08/16/2018 16:05:19.234  INFO  [PublishTask-com.xderi.client.XDUaClient@475e586c] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onAfterCreate(XDSubscriptionAliveListener.java:21)] SubscriptionAliveListener-onAfterCreate : Subscription created. ID = 9
+ 08/16/2018 16:05:19.234  INFO  [PublishTask-com.xderi.client.XDUaClient@475e586c] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.reconnect(?:?)] reconnect: Reconnected to server (session reactivated)
+ 08/30/2018 13:41:30.938  INFO  [main] com.xderi.client.XDUaClient                         - [com.xderi.client.XDUaClient.<init>(XDUaClient.java:184)] new  XDUaClient! 
+ 08/30/2018 13:41:31.281  INFO  [main] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.C(?:?)] Using an alternate endpoint URL 'opc.tcp://YTINGTING-PC.xderi.com:48010/OPCUA/XD_ScadaServer' instead of the requested 'opc.tcp://localhost:48010/OPCUA/XD_ScadaServer'
+ 08/30/2018 13:41:31.565  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:139)] New AlarmEventDBThread
+ 08/30/2018 13:41:31.565  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:143)] AlarmEventDBThread is start
+ 08/30/2018 13:41:31.689  INFO  [main] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onAfterCreate(XDSubscriptionAliveListener.java:21)] SubscriptionAliveListener-onAfterCreate : Subscription created. ID = 7
+ 08/30/2018 13:42:16.731  INFO  [main] com.xderi.client.XDUaClient                         - [com.xderi.client.XDUaClient.<init>(XDUaClient.java:184)] new  XDUaClient! 
+ 08/30/2018 13:42:17.016  INFO  [main] com.prosysopc.ua.client.UaClient                    - [com.prosysopc.ua.client.UaClient.C(?:?)] Using an alternate endpoint URL 'opc.tcp://YTINGTING-PC.xderi.com:48010/OPCUA/XD_ScadaServer' instead of the requested 'opc.tcp://localhost:48010/OPCUA/XD_ScadaServer'
+ 08/30/2018 13:42:17.302  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:139)] New AlarmEventDBThread
+ 08/30/2018 13:42:17.302  INFO  [main] com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler     - [com.xderi.client.alarm.dataprocessing.AlarmEventCacheHandler.startAlarmEventDBThread(AlarmEventCacheHandler.java:143)] AlarmEventDBThread is start
+ 08/30/2018 13:42:17.315  INFO  [main] com.xderi.client.alarm.listener.XDSubscriptionAliveListener     - [com.xderi.client.alarm.listener.XDSubscriptionAliveListener.onAfterCreate(XDSubscriptionAliveListener.java:21)] SubscriptionAliveListener-onAfterCreate : Subscription created. ID = 8
+ 

@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcpkix-jdk15on-152.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Opc.Ua.Stack-1.02.337.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scpkix-1.52.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Prosys-OPC-UA-Java-SDK-Client-Server-Binary-2.3.2-781.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sc-core-1.52.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-nio-4.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scprov-1.52.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
